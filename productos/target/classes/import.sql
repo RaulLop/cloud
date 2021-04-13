@@ -1,0 +1,9 @@
+Insert Into productos (nombre, precio, create_at) values ('Panasonic', 800, now());
+Insert Into productos (nombre, precio, create_at) values ('sonic', 700, now());
+Insert Into productos (nombre, precio, create_at) values ('Coby', 600, now());
+Insert Into productos (nombre, precio, create_at) values ('Bianchi', 500, now());
+Insert Into productos (nombre, precio, create_at) values ('Adids', 400, now());
+Insert Into productos (nombre, precio, create_at) values ('NEwBalanc', 300, now());
+Insert Into productos (nombre, precio, create_at) values ('Panam', 200, now());
+Insert Into productos (nombre, precio, create_at) values ('Nike', 100, now());
+Insert Into productos (nombre, precio, create_at) values ('Rebok', 1100, now());
